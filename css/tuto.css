@@ -1,0 +1,14 @@
+div#filler {
+	width: clamp(80%, 25rem, 100%);
+	
+	margin: auto;
+	padding: 0;
+}
+
+h2 {
+	text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+}

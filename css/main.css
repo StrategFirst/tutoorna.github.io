@@ -1,0 +1,24 @@
+:root {
+	--green: #6a8662;
+	--brown: #2a2520;
+	--white: #FFFFFF;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+html {
+	min-height: 100vh;
+}
+
+body {
+	width: 100vw;
+	height: 100vh;
+	background-color: var(--green);
+	background-image: url(https://orna.guide/static/orna/img/bg/big_map.png);
+	background-size: cover;
+	background-position: center;
+}
